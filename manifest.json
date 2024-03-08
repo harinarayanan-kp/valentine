@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Valentine",
+  "name": "Valentines Day Unclickable",
+  "homepage": "https://harinarayanan-kp.github.io/valentine/",
   "icons": [
     {
       "src": "favicon.ico",
